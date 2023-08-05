@@ -1,8 +1,4 @@
-Sure! Below are the README.md files for each of the three templates:
 
-### Template 1: Email Queue Processor with Bull
-
-```markdown
 # Email Queue Processor with Bull
 
 This is a Node.js template for processing email tasks using Bull library for handling queues.
